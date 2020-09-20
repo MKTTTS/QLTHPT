@@ -1,0 +1,10 @@
+C:\Users\mjnkc\source\repos\QLTHPT\QLTHPT\bin\Debug\QLTHPT.exe.config
+C:\Users\mjnkc\source\repos\QLTHPT\QLTHPT\bin\Debug\QLTHPT.exe
+C:\Users\mjnkc\source\repos\QLTHPT\QLTHPT\bin\Debug\QLTHPT.pdb
+C:\Users\mjnkc\source\repos\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csprojAssemblyReference.cache
+C:\Users\mjnkc\source\repos\QLTHPT\QLTHPT\obj\Debug\QLTHPT.Form1.resources
+C:\Users\mjnkc\source\repos\QLTHPT\QLTHPT\obj\Debug\QLTHPT.Properties.Resources.resources
+C:\Users\mjnkc\source\repos\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.GenerateResource.cache
+C:\Users\mjnkc\source\repos\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.CoreCompileInputs.cache
+C:\Users\mjnkc\source\repos\QLTHPT\QLTHPT\obj\Debug\QLTHPT.exe
+C:\Users\mjnkc\source\repos\QLTHPT\QLTHPT\obj\Debug\QLTHPT.pdb

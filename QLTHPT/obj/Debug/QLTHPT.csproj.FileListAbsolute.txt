@@ -8,3 +8,14 @@ C:\Users\mjnkc\source\repos\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.GenerateResour
 C:\Users\mjnkc\source\repos\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.CoreCompileInputs.cache
 C:\Users\mjnkc\source\repos\QLTHPT\QLTHPT\obj\Debug\QLTHPT.exe
 C:\Users\mjnkc\source\repos\QLTHPT\QLTHPT\obj\Debug\QLTHPT.pdb
+E:\Desktop\Thực tập nhóm\QLTHPT\QLTHPT\bin\Debug\QLTHPT.exe.config
+E:\Desktop\Thực tập nhóm\QLTHPT\QLTHPT\bin\Debug\QLTHPT.exe
+E:\Desktop\Thực tập nhóm\QLTHPT\QLTHPT\bin\Debug\QLTHPT.pdb
+E:\Desktop\Thực tập nhóm\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csprojAssemblyReference.cache
+E:\Desktop\Thực tập nhóm\QLTHPT\QLTHPT\obj\Debug\QLTHPT.Form1.resources
+E:\Desktop\Thực tập nhóm\QLTHPT\QLTHPT\obj\Debug\QLTHPT.Properties.Resources.resources
+E:\Desktop\Thực tập nhóm\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.GenerateResource.cache
+E:\Desktop\Thực tập nhóm\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.CoreCompileInputs.cache
+E:\Desktop\Thực tập nhóm\QLTHPT\QLTHPT\obj\Debug\QLTHPT.exe
+E:\Desktop\Thực tập nhóm\QLTHPT\QLTHPT\obj\Debug\QLTHPT.pdb
+E:\Desktop\Thực tập nhóm\QLTHPT\QLTHPT\obj\Debug\QLTHPT.Formhocsinh.resources

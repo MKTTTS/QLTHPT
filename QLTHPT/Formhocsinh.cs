@@ -7,14 +7,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace QLTHPT
 {
     public partial class Formhocsinh : Form
     {
+
         public Formhocsinh()
         {
             InitializeComponent();
         }
+
     }
 }

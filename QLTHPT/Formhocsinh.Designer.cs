@@ -37,9 +37,11 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
+            this.panel3 = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewHocSinh)).BeginInit();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
+            this.panel3.SuspendLayout();
             this.SuspendLayout();
             // 
             // dataGridViewHocSinh
@@ -51,8 +53,9 @@
             this.dataGridViewHocSinh.Name = "dataGridViewHocSinh";
             this.dataGridViewHocSinh.RowHeadersWidth = 51;
             this.dataGridViewHocSinh.RowTemplate.Height = 24;
-            this.dataGridViewHocSinh.Size = new System.Drawing.Size(835, 420);
+            this.dataGridViewHocSinh.Size = new System.Drawing.Size(835, 310);
             this.dataGridViewHocSinh.TabIndex = 6;
+            this.dataGridViewHocSinh.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DataGridViewHocSinh_CellClick);
             // 
             // bt_timkiemhs
             // 
@@ -66,6 +69,7 @@
             this.bt_timkiemhs.TabIndex = 2;
             this.bt_timkiemhs.Text = "TÌM KIẾM";
             this.bt_timkiemhs.UseVisualStyleBackColor = false;
+            this.bt_timkiemhs.Click += new System.EventHandler(this.bt_timkiemhs_Click);
             // 
             // bt_xoahs
             // 
@@ -79,6 +83,7 @@
             this.bt_xoahs.TabIndex = 3;
             this.bt_xoahs.Text = "XOÁ";
             this.bt_xoahs.UseVisualStyleBackColor = false;
+            this.bt_xoahs.Click += new System.EventHandler(this.Bt_xoahs_Click);
             // 
             // bt_suahs
             // 
@@ -92,6 +97,7 @@
             this.bt_suahs.TabIndex = 4;
             this.bt_suahs.Text = "SỬA";
             this.bt_suahs.UseVisualStyleBackColor = false;
+            this.bt_suahs.Click += new System.EventHandler(this.Bt_suahs_Click);
             // 
             // bt_themhs
             // 
@@ -105,6 +111,7 @@
             this.bt_themhs.TabIndex = 5;
             this.bt_themhs.Text = "THÊM";
             this.bt_themhs.UseVisualStyleBackColor = false;
+            this.bt_themhs.Click += new System.EventHandler(this.Bt_themhs_Click);
             // 
             // button1
             // 
@@ -117,6 +124,7 @@
             this.button1.TabIndex = 7;
             this.button1.Text = "QUAY LẠI";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // panel1
             // 
@@ -151,21 +159,32 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "DANH SÁCH HỌC SINH";
             // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.dataGridViewHocSinh);
+            this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel3.Location = new System.Drawing.Point(0, 60);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(835, 310);
+            this.panel3.TabIndex = 10;
+            // 
             // Formhocsinh
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(835, 420);
+            this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
-            this.Controls.Add(this.dataGridViewHocSinh);
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Formhocsinh";
             this.Text = "Formhocsinh";
+            this.Load += new System.EventHandler(this.Formhocsinh_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewHocSinh)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
+            this.panel3.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -181,5 +200,6 @@
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Panel panel3;
     }
 }

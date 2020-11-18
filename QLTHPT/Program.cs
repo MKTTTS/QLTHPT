@@ -16,7 +16,7 @@ namespace QLTHPT
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormTimKiem());
+            Application.Run(new FormThemGV());
         }
     }
 }

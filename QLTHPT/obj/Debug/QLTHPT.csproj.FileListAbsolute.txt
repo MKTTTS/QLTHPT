@@ -18,3 +18,14 @@ C:\Users\admin\Desktop\Thuctapnhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.CoreCom
 C:\Users\admin\Desktop\Thuctapnhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.exe
 C:\Users\admin\Desktop\Thuctapnhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.pdb
 C:\Users\admin\Desktop\Thuctapnhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.FormTimKiem.resources
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\bin\Debug\QLTHPT.exe.config
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\bin\Debug\QLTHPT.exe
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\bin\Debug\QLTHPT.pdb
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.Form1.resources
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.FormThemGV.resources
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.FormTimKiem.resources
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.Properties.Resources.resources
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.GenerateResource.cache
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.CoreCompileInputs.cache
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.exe
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.pdb

@@ -40,5 +40,12 @@ namespace QLTHPT
 
                MessageBox.Show("Thêm thành công", "Thông báo");
           }
+
+          private void bt_back_Click(object sender, EventArgs e)
+          {
+               Formgiaovien fgv = new Formgiaovien();
+               fgv.Show();
+               this.Hide();
+          }
      }
 }

@@ -57,6 +57,7 @@ namespace QLTHPT
                this.bt_back.TabIndex = 62;
                this.bt_back.Text = "Back";
                this.bt_back.UseVisualStyleBackColor = true;
+               this.bt_back.Click += new System.EventHandler(this.bt_back_Click);
                // 
                // bt_themGV
                // 

@@ -29,3 +29,4 @@ D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.GenerateResource.cache
 D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.CoreCompileInputs.cache
 D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.exe
 D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.pdb
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.FormThem.resources

@@ -32,5 +32,13 @@ namespace QLTHPT
                comm.ExecuteNonQuery();
                MessageBox.Show("Thêm thành công", "Thông báo");
           }
+
+          private void bt_back_Click(object sender, EventArgs e)
+          {
+               this.Hide();
+               Formhocsinh fhs = new Formhocsinh();
+               fhs.ShowDialog();
+               this.Close();
+          }
      }
 }

@@ -43,9 +43,10 @@ namespace QLTHPT
 
           private void bt_back_Click(object sender, EventArgs e)
           {
-               Formgiaovien fgv = new Formgiaovien();
-               fgv.Show();
                this.Hide();
+               Formgiaovien fgv = new Formgiaovien();
+               fgv.ShowDialog();
+               this.Close();
           }
      }
 }

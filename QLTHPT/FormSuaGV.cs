@@ -12,7 +12,7 @@ namespace QLTHPT
 {
     public partial class FormSuaGV : Form
     {
-        public FormSuaGV()
+        public FormSuaGV(string manv, int index, DataGridView datagv)
         {
             InitializeComponent();
         }

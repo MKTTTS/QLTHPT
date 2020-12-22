@@ -11,7 +11,6 @@ C:\Users\mjnkc\source\repos\QLTHPT\QLTHPT\obj\Debug\QLTHPT.pdb
 C:\Users\admin\Desktop\Thuctapnhom\QLTHPT\QLTHPT\bin\Debug\QLTHPT.exe.config
 C:\Users\admin\Desktop\Thuctapnhom\QLTHPT\QLTHPT\bin\Debug\QLTHPT.exe
 C:\Users\admin\Desktop\Thuctapnhom\QLTHPT\QLTHPT\bin\Debug\QLTHPT.pdb
-C:\Users\admin\Desktop\Thuctapnhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csprojAssemblyReference.cache
 C:\Users\admin\Desktop\Thuctapnhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.Form1.resources
 C:\Users\admin\Desktop\Thuctapnhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.Properties.Resources.resources
 C:\Users\admin\Desktop\Thuctapnhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.GenerateResource.cache

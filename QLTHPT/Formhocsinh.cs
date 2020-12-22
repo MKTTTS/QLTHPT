@@ -57,13 +57,14 @@ namespace QLTHPT
 
         private void Bt_suahs_Click(object sender, EventArgs e)
         {
-            /*int selectRow = dataGridViewHocSinh.SelectedRows[0].Index;
+            int selectRow = dataGridViewHocSinh.SelectedRows[0].Index;
             if (selectRow >= 0 && selectRow < dataGridViewHocSinh.RowCount - 1)
             {
                 string mahocsinh = dataGridViewHocSinh.Rows[selectRow].Cells[0].Value.ToString();
                 FormSuaHS FSuaHS = new FormSuaHS(mahocsinh, selectRow, dataGridViewHocSinh);
-                FSuaHS.ShowDialog();
-            }*/
+                FSuaHS.Show();
+                this.Dispose();
+            }
         }
 
         private void Bt_xoahs_Click(object sender, EventArgs e)

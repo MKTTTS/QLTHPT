@@ -45,17 +45,17 @@ namespace QLTHPT
             // 
             // bt_back
             // 
-            this.bt_back.Location = new System.Drawing.Point(419, 417);
+            this.bt_back.Location = new System.Drawing.Point(543, 231);
             this.bt_back.Name = "bt_back";
-            this.bt_back.Size = new System.Drawing.Size(95, 47);
+            this.bt_back.Size = new System.Drawing.Size(104, 47);
             this.bt_back.TabIndex = 103;
-            this.bt_back.Text = "back";
+            this.bt_back.Text = "Thoát";
             this.bt_back.UseVisualStyleBackColor = true;
             this.bt_back.Click += new System.EventHandler(this.bt_back_Click);
             // 
             // bt_luu
             // 
-            this.bt_luu.Location = new System.Drawing.Point(210, 417);
+            this.bt_luu.Location = new System.Drawing.Point(543, 121);
             this.bt_luu.Name = "bt_luu";
             this.bt_luu.Size = new System.Drawing.Size(104, 47);
             this.bt_luu.TabIndex = 102;
@@ -66,16 +66,17 @@ namespace QLTHPT
             // txt_quequan
             // 
             this.txt_quequan.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_quequan.Location = new System.Drawing.Point(16, 248);
+            this.txt_quequan.Location = new System.Drawing.Point(148, 189);
             this.txt_quequan.Name = "txt_quequan";
             this.txt_quequan.Size = new System.Drawing.Size(294, 30);
             this.txt_quequan.TabIndex = 101;
+            this.txt_quequan.TextChanged += new System.EventHandler(this.txt_quequan_TextChanged);
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(12, 204);
+            this.label5.Location = new System.Drawing.Point(36, 194);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(84, 22);
             this.label5.TabIndex = 100;
@@ -84,16 +85,16 @@ namespace QLTHPT
             // txt_gioitinh
             // 
             this.txt_gioitinh.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_gioitinh.Location = new System.Drawing.Point(16, 145);
+            this.txt_gioitinh.Location = new System.Drawing.Point(148, 134);
             this.txt_gioitinh.Name = "txt_gioitinh";
-            this.txt_gioitinh.Size = new System.Drawing.Size(298, 30);
+            this.txt_gioitinh.Size = new System.Drawing.Size(294, 30);
             this.txt_gioitinh.TabIndex = 99;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(12, 104);
+            this.label4.Location = new System.Drawing.Point(36, 138);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(81, 22);
             this.label4.TabIndex = 98;
@@ -102,7 +103,7 @@ namespace QLTHPT
             // dateTimePicker1
             // 
             this.dateTimePicker1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dateTimePicker1.Location = new System.Drawing.Point(419, 145);
+            this.dateTimePicker1.Location = new System.Drawing.Point(148, 299);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(294, 30);
             this.dateTimePicker1.TabIndex = 97;
@@ -111,15 +112,15 @@ namespace QLTHPT
             // txt_hoten
             // 
             this.txt_hoten.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_hoten.Location = new System.Drawing.Point(419, 56);
+            this.txt_hoten.Location = new System.Drawing.Point(148, 244);
             this.txt_hoten.Name = "txt_hoten";
-            this.txt_hoten.Size = new System.Drawing.Size(298, 30);
+            this.txt_hoten.Size = new System.Drawing.Size(294, 30);
             this.txt_hoten.TabIndex = 96;
             // 
             // txt_mahs
             // 
             this.txt_mahs.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_mahs.Location = new System.Drawing.Point(16, 56);
+            this.txt_mahs.Location = new System.Drawing.Point(148, 79);
             this.txt_mahs.Name = "txt_mahs";
             this.txt_mahs.Size = new System.Drawing.Size(294, 30);
             this.txt_mahs.TabIndex = 95;
@@ -128,7 +129,7 @@ namespace QLTHPT
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(415, 104);
+            this.label3.Location = new System.Drawing.Point(32, 306);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(88, 22);
             this.label3.TabIndex = 94;
@@ -138,7 +139,7 @@ namespace QLTHPT
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(415, 18);
+            this.label2.Location = new System.Drawing.Point(36, 250);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(62, 22);
             this.label2.TabIndex = 93;
@@ -148,7 +149,7 @@ namespace QLTHPT
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(12, 18);
+            this.label1.Location = new System.Drawing.Point(36, 82);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(106, 22);
             this.label1.TabIndex = 92;
@@ -158,7 +159,7 @@ namespace QLTHPT
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(750, 503);
+            this.ClientSize = new System.Drawing.Size(750, 407);
             this.Controls.Add(this.bt_back);
             this.Controls.Add(this.bt_luu);
             this.Controls.Add(this.txt_quequan);

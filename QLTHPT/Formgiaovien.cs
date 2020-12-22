@@ -70,7 +70,8 @@ namespace QLTHPT
             {
                 string magv = dgvGiaoVien.Rows[selectRow].Cells[0].Value.ToString();
                 FormSuaGV formSuagv = new FormSuaGV(magv, selectRow, dgvGiaoVien);
-                formSuagv.ShowDialog();
+                formSuagv.Show();
+                this.Dispose();
             }
         }
 
@@ -114,6 +115,11 @@ namespace QLTHPT
                 magiaovien = magv;
             }
             conn.Close();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+          
         }
     }
 }

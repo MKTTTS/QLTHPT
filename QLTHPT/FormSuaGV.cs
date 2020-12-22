@@ -43,6 +43,9 @@ namespace QLTHPT
             comm.ExecuteNonQuery();
             conn.Close();
             MessageBox.Show("Sửa thành công!", "Thông báo!");
+            
+            Formgiaovien f = new Formgiaovien();
+            f.Show();
             this.Close();
         }
 

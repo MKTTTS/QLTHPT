@@ -43,6 +43,9 @@ namespace QLTHPT
             conn.Close();
             MessageBox.Show("Sửa thành công!", "Thông báo!");
             this.Close();
+            Formhocsinh f = new Formhocsinh();
+            f.Show();
+            this.Close();
         }
 
         private void bt_back_Click(object sender, EventArgs e)
@@ -50,6 +53,11 @@ namespace QLTHPT
             this.Hide();
             Formhocsinh fhs = new Formhocsinh();
             fhs.ShowDialog();
+        }
+
+        private void txt_quequan_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

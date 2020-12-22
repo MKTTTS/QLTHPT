@@ -1,14 +1,15 @@
-C:\Users\dang tien\Desktop\New folder (4)\QLTHPT\QLTHPT\bin\Debug\QLTHPT.exe.config
-C:\Users\dang tien\Desktop\New folder (4)\QLTHPT\QLTHPT\bin\Debug\QLTHPT.exe
-C:\Users\dang tien\Desktop\New folder (4)\QLTHPT\QLTHPT\bin\Debug\QLTHPT.pdb
-C:\Users\dang tien\Desktop\New folder (4)\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csprojAssemblyReference.cache
-C:\Users\dang tien\Desktop\New folder (4)\QLTHPT\QLTHPT\obj\Debug\QLTHPT.Form1.resources
-C:\Users\dang tien\Desktop\New folder (4)\QLTHPT\QLTHPT\obj\Debug\QLTHPT.FormTimKiem.resources
-C:\Users\dang tien\Desktop\New folder (4)\QLTHPT\QLTHPT\obj\Debug\QLTHPT.FormSuaGV.resources
-C:\Users\dang tien\Desktop\New folder (4)\QLTHPT\QLTHPT\obj\Debug\QLTHPT.FormSuaHS.resources
-C:\Users\dang tien\Desktop\New folder (4)\QLTHPT\QLTHPT\obj\Debug\QLTHPT.Formgiaovien.resources
-C:\Users\dang tien\Desktop\New folder (4)\QLTHPT\QLTHPT\obj\Debug\QLTHPT.Properties.Resources.resources
-C:\Users\dang tien\Desktop\New folder (4)\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.GenerateResource.cache
-C:\Users\dang tien\Desktop\New folder (4)\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.CoreCompileInputs.cache
-C:\Users\dang tien\Desktop\New folder (4)\QLTHPT\QLTHPT\obj\Debug\QLTHPT.exe
-C:\Users\dang tien\Desktop\New folder (4)\QLTHPT\QLTHPT\obj\Debug\QLTHPT.pdb
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\bin\Debug\QLTHPT.exe.config
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\bin\Debug\QLTHPT.exe
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\bin\Debug\QLTHPT.pdb
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.Form1.resources
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.FormThem.resources
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.FormThemGV.resources
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.FormTimKiem.resources
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.FormSuaGV.resources
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.FormSuaHS.resources
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.Formgiaovien.resources
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.Properties.Resources.resources
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.GenerateResource.cache
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.CoreCompileInputs.cache
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.exe
+D:\Thuc Tap Nhom\QLTHPT\QLTHPT\obj\Debug\QLTHPT.pdb

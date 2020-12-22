@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
+
 
 namespace QLTHPT
 {
@@ -16,5 +18,35 @@ namespace QLTHPT
         {
             InitializeComponent();
         }
-    }
+
+          private void bt_themGV_Click(object sender, EventArgs e)
+          {
+               SqlConnection conn = constringsql.getConnection();
+               conn.Open();
+
+               string query = "INSERT INTO dbo.GIAOVIEN ( MAGIAOVIEN, HOTEN, GIOITINH, NGAYSINH, NOISINH, CHUYENMON, SODIENTHOAI ) " +
+                "VALUES (@MAHOCSINH, @HOTEN, @GIOITINH, @NGAYSINH, @NOISINH, @CHUYENMON, @SODIENTHOAI )";
+
+               SqlCommand comm = new SqlCommand(query, conn);
+               
+               comm.Parameters.AddWithValue("@MAHOCSINH", txt_magv.Text);
+               comm.Parameters.AddWithValue("@HOTEN", txt_hoten.Text);
+               comm.Parameters.AddWithValue("@GIOITINH", txt_gioitinh.Text);
+               comm.Parameters.AddWithValue("@NGAYSINH", dateTimePicker1.Value.ToString());
+               comm.Parameters.AddWithValue("@NOISINH", txt_noisinh.Text);
+               comm.Parameters.AddWithValue("@CHUYENMON", txt_chuyenmon.Text);
+               comm.Parameters.AddWithValue("@SODIENTHOAI", txt_sdt.Text);
+               comm.ExecuteNonQuery();
+
+               MessageBox.Show("Thêm thành công", "Thông báo");
+          }
+
+          private void bt_back_Click(object sender, EventArgs e)
+          {
+               this.Hide();
+               Formgiaovien fgv = new Formgiaovien();
+               fgv.ShowDialog();
+               this.Close();
+          }
+     }
 }

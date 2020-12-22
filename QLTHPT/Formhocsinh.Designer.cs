@@ -46,11 +46,13 @@
             // 
             // dataGridViewHocSinh
             // 
+            this.dataGridViewHocSinh.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridViewHocSinh.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridViewHocSinh.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridViewHocSinh.Location = new System.Drawing.Point(0, 0);
             this.dataGridViewHocSinh.Margin = new System.Windows.Forms.Padding(2);
             this.dataGridViewHocSinh.Name = "dataGridViewHocSinh";
+            this.dataGridViewHocSinh.ReadOnly = true;
             this.dataGridViewHocSinh.RowHeadersWidth = 51;
             this.dataGridViewHocSinh.RowTemplate.Height = 24;
             this.dataGridViewHocSinh.Size = new System.Drawing.Size(835, 310);

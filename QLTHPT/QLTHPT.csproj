@@ -101,6 +101,7 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
 
+
     <EmbeddedResource Include="FormThem.resx">
       <DependentUpon>FormThem.cs</DependentUpon>
     </EmbeddedResource>
@@ -121,6 +122,10 @@
 
     <EmbeddedResource Include="Formgiaovien.resx">
       <DependentUpon>Formgiaovien.cs</DependentUpon>
+	</EmbeddedResource>
+
+    <EmbeddedResource Include="Formhocsinh.resx">
+      <DependentUpon>Formhocsinh.cs</DependentUpon>
 
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">

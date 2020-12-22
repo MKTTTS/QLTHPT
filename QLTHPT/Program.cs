@@ -16,7 +16,7 @@ namespace QLTHPT
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormThem());
+            Application.Run(new Form1());
         }
     }
 }

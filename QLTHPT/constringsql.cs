@@ -14,7 +14,6 @@ namespace QLTHPT
 
             string connString = @"Data Source=.;Initial Catalog=QuanLyHocSinh;Integrated Security=True";
 
-            //string connString = @"Data Source=.; Initial Catalog=QuanLyHocSinh;Integrated Security=True";
             SqlConnection conn = new SqlConnection(connString);
             return conn;
         }
